@@ -4,6 +4,7 @@
     "color_scheme": "light",
     "accent_color": "green",
     "base_font": "fraunces",
+    "hello": "bla",
     "header": {
         "title": "Agency",
         "logo": "images/logo.svg",
