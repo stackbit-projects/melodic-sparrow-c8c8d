@@ -89,6 +89,7 @@ models:
         label: Hello
       - name: test
         type: string
+        label: Test
     file: config.yml
   block:
     type: data
