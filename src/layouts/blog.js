@@ -19,7 +19,7 @@ export default class Blog extends React.Component {
 
         return (
             <Layout page={page} config={config}>
-                <pre>{JSON.stringify(data.block.title}</pre>
+                <pre>{JSON.stringify(data.block)}</pre>
                 <header
                     className={classNames('section', 'section--header', {
                         'screen-reader-text': hideTitle
