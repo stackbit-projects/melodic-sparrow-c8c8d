@@ -91,7 +91,7 @@ models:
         type: string
         label: Test
     file: config.yml
-  block:
+  blocks:
     type: data
     label: Block configuration
     fields:
