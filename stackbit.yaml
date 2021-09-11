@@ -88,7 +88,7 @@ models:
         type: string
         label: Hello
     file: config.yml
-    config:
+  block:
     type: data
     label: Site Configuration
     fields:
