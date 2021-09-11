@@ -90,7 +90,7 @@ models:
     file: config.yml
   block:
     type: data
-    label: Site Configuration
+    label: Block configuration
     fields:
       - type: string
         name: title
