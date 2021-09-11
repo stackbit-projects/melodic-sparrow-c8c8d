@@ -87,6 +87,8 @@ models:
       - name: hello
         type: string
         label: Hello
+      - name: test
+        type: string
     file: config.yml
   block:
     type: data
