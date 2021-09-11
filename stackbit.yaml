@@ -100,7 +100,7 @@ models:
         label: Block title
         description: Block title
         required: true
-    file: block.yml
+    folder: blocks
   header:
     type: object
     label: Header Configuration
