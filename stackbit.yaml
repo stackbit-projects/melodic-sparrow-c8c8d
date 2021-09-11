@@ -87,7 +87,7 @@ models:
       - name: hello
         type: string
         label: Hello
-    file: config.json
+    file: config.yml
   header:
     type: object
     label: Header Configuration
