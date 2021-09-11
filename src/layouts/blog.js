@@ -19,6 +19,7 @@ export default class Blog extends React.Component {
 
         return (
             <Layout page={page} config={config}>
+                {data}
                 <header
                     className={classNames('section', 'section--header', {
                         'screen-reader-text': hideTitle
