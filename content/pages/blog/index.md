@@ -6,7 +6,7 @@ col_number: three
 seo:
   title: Journal
   description: This is the journal page
-  config: data/config.yml
+  config: data/config.yaml
   extra:
     - name: 'og:type'
       value: website
