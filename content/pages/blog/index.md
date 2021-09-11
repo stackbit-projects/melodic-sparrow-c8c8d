@@ -6,7 +6,7 @@ col_number: three
 seo:
   title: Journal
   description: This is the journal page
-  hello:
+  config:
   extra:
     - name: 'og:type'
       value: website
