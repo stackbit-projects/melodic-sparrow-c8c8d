@@ -95,7 +95,7 @@ models:
       - type: string
         name: title
         label: Block title
-        description: Site title
+        description: Block title
         required: true
     file: block.yml
   header:
