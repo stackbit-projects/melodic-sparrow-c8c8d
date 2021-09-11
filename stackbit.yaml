@@ -94,7 +94,7 @@ models:
     fields:
       - type: string
         name: title
-        label: Title
+        label: Block title
         description: Site title
         required: true
     file: block.yml
