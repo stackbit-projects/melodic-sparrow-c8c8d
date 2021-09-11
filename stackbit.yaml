@@ -84,12 +84,6 @@ models:
         label: Footer Configuration
         models:
           - footer
-      - name: hello
-        type: string
-        label: Hello
-      - name: test
-        type: string
-        label: Test
     file: config.yaml
   header:
     type: object
