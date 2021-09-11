@@ -84,7 +84,7 @@ models:
         label: Footer Configuration
         models:
           - footer
-      - name: ''
+      - name: hello
         type: string
     file: config.json
   header:
