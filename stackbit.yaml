@@ -86,6 +86,7 @@ models:
           - footer
       - name: hello
         type: string
+        label: Hello
     file: config.json
   header:
     type: object
