@@ -90,7 +90,7 @@ models:
       - name: test
         type: string
         label: Test
-    file: config.yml
+    file: config.yaml
   header:
     type: object
     label: Header Configuration
