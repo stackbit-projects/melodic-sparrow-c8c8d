@@ -91,16 +91,6 @@ models:
         type: string
         label: Test
     file: config.yml
-  blocks:
-    type: data
-    label: Block configuration
-    fields:
-      - type: string
-        name: title
-        label: Block title
-        description: Block title
-        required: true
-    folder: blocks
   header:
     type: object
     label: Header Configuration
