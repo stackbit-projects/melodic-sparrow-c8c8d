@@ -88,6 +88,16 @@ models:
         type: string
         label: Hello
     file: config.yml
+    config:
+    type: data
+    label: Site Configuration
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: Site title
+        required: true
+    file: block.yml
   header:
     type: object
     label: Header Configuration
